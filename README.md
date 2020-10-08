@@ -12,7 +12,7 @@ A basic drum kit, that allows you to play audio when pressed the indicated key o
 - Button event
 - CSS handling
 
-![Check it out](https://utkarshgupta2504.github.io/30-days-of-js/drumkit)
+[Check it out](https://utkarshgupta2504.github.io/30-days-of-js/drumkit)
 
 ### Clock
 
@@ -21,4 +21,4 @@ An analog clock that shows the current time.
 - Transitions
 - CSS handling
 
-![Check it out](https://utkarshgupta2504.github.io/30-days-of-js/clock)
+[Check it out](https://utkarshgupta2504.github.io/30-days-of-js/clock)
