@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>CSS Vars</title>
+		<link rel="stylesheet" href="./styles.css" />
+	</head>
+	<body>
+		<h2>Update CSS variables using <span class="h1">JS</span></h2>
+		<div class="controls">
+			<label for="spacing">Spacing</label>
+			<input
+				type="range"
+				name="spacing"
+				id="spacing"
+				value="10"
+				data-sizing="px"
+			/>
+			<label for="blur">Blur</label>
+			<input
+				type="range"
+				name="blur"
+				id="blur"
+				value="10"
+				max="20"
+				data-sizing="px"
+			/>
+			<label for="color">Base Color</label>
+			<input type="color" name="base" id="color" />
+		</div>
+		<img src="./image.jpg" alt="fantasy-landscape" />
+
+		<script src="./index.js"></script>
+	</body>
+</html>

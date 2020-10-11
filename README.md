@@ -22,3 +22,12 @@ An analog clock that shows the current time.
 - CSS handling
 
 [Check it out](https://utkarshgupta2504.github.io/30-days-of-js/clock)
+
+### Css-vars
+
+A simple webpage to dynamically alter css using inputs.
+
+- CSS variables
+- HTML Tags Dataset
+
+[Check it out](https://utkarshgupta2504.github.io/30-days-of-js/css-vars)
