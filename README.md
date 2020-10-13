@@ -31,3 +31,12 @@ A simple webpage to dynamically alter css using inputs.
 - HTML Tags Dataset
 
 [Check it out](https://utkarshgupta2504.github.io/30-days-of-js/css-vars)
+
+### Flex Image Gallery
+
+A beautiful image gallery that transitions and expands when a photo is clicked.
+
+- Flex Box
+- Transition event handling
+
+[Check it out](https://utkarshgupta2504.github.io/30-days-of-js/flex-image-gallery)

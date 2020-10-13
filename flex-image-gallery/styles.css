@@ -1,0 +1,107 @@
+html {
+	box-sizing: border-box;
+	background: #ffc600;
+	font-family: "helvetica neue";
+	font-size: 20px;
+	font-weight: 200;
+}
+
+body {
+	margin: 0;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+.panels {
+	min-height: 100vh;
+	overflow: hidden;
+	display: flex;
+}
+
+.panel {
+	background: #6b0f9c;
+	box-shadow: inset 0 0 0 5px rgba(255, 255, 255, 0.1);
+	color: white;
+	text-align: center;
+	align-items: center;
+	transition: font-size 0.7s cubic-bezier(0.61, -0.19, 0.7, -0.11),
+		flex 0.7s cubic-bezier(0.61, -0.19, 0.7, -0.11), background 0.2s;
+	font-size: 20px;
+	background-size: cover;
+	background-position: center;
+}
+
+.panel {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.panel > * {
+	/* border: solid 2px red; */
+	width: 100%;
+	margin: 0;
+	flex: 1 0 auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	transition: transform 0.5s;
+}
+
+.panel p {
+	text-transform: uppercase;
+	font-family: "Amatic SC", cursive;
+	text-shadow: 0 0 4px rgba(0, 0, 0, 0.72), 0 0 14px rgba(0, 0, 0, 0.45);
+	font-size: 2em;
+}
+
+.panel p:nth-child(2) {
+	font-size: 4em;
+}
+
+.panel *:first-child {
+	transform: translateY(-100%);
+}
+
+.panel *:last-child {
+	transform: translateY(100%);
+}
+
+.panel.open-active *:first-child {
+	transform: translateY(0);
+}
+
+.panel.open-active *:last-child {
+	transform: translateY(0);
+}
+
+.panel.open {
+	flex: 5;
+	font-size: 40px;
+}
+
+.panel1 {
+	background-image: url(https://images.unsplash.com/photo-1598105345717-2e45ca92f9b7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+}
+
+.panel2 {
+	background-image: url(https://images.unsplash.com/photo-1516517988546-0e7453cd7bd0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+}
+
+.panel3 {
+	background-image: url(https://images.unsplash.com/photo-1508497740046-762dd5f711be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+}
+
+.panel4 {
+	background-image: url(https://images.unsplash.com/photo-1517957754642-2870518e16f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+}
+
+.panel5 {
+	background-image: url(https://images.unsplash.com/photo-1495012379376-194a416fcc5f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+}
