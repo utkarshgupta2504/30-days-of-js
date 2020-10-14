@@ -40,3 +40,14 @@ A beautiful image gallery that transitions and expands when a photo is clicked.
 - Transition event handling
 
 [Check it out](https://utkarshgupta2504.github.io/30-days-of-js/flex-image-gallery)
+
+### City Search
+
+A simple webpage that filters out the cities that contains the given query.
+
+- Ajax
+- API
+- Dynamic Rendering
+- Regular Expressions
+
+[Check it out](https://utkarshgupta2504.github.io/30-days-of-js/city-search)
