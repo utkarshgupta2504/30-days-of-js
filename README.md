@@ -61,3 +61,12 @@ A canvas for you to show your creativity on. Hold the mouse button and start pai
 - Mouse Events
 
 [Check it out](https://utkarshgupta2504.github.io/30-days-of-js/paint-canvas)
+
+### Multiple Checkboxes
+
+An attempt to implement multiple selection. Try holding shift and clicking to select all the checkboxes in between.
+
+- Checkbox
+- Keyboard events
+
+[Check it out](multiple-checkboxes)
