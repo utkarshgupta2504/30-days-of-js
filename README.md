@@ -51,3 +51,13 @@ A simple webpage that filters out the cities that contains the given query.
 - Regular Expressions
 
 [Check it out](https://utkarshgupta2504.github.io/30-days-of-js/city-search)
+
+### Paint Canvas
+
+A canvas for you to show your creativity on. Hold the mouse button and start painting :)
+
+- Canvas
+- Canvas Context
+- Mouse Events
+
+[Check it out](https://utkarshgupta2504.github.io/30-days-of-js/paint-canvas)
