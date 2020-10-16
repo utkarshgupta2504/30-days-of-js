@@ -12,7 +12,7 @@ A basic drum kit, that allows you to play audio when pressed the indicated key o
 - Button event
 - CSS handling
 
-[Check it out](https://utkarshgupta2504.github.io/30-days-of-js/drumkit)
+[Check it out](drumkit)
 
 ### Clock
 
@@ -21,7 +21,7 @@ An analog clock that shows the current time.
 - Transitions
 - CSS handling
 
-[Check it out](https://utkarshgupta2504.github.io/30-days-of-js/clock)
+[Check it out](clock)
 
 ### Css-vars
 
@@ -30,7 +30,7 @@ A simple webpage to dynamically alter css using inputs.
 - CSS variables
 - HTML Tags Dataset
 
-[Check it out](https://utkarshgupta2504.github.io/30-days-of-js/css-vars)
+[Check it out](css-vars)
 
 ### Flex Image Gallery
 
@@ -39,7 +39,7 @@ A beautiful image gallery that transitions and expands when a photo is clicked.
 - Flex Box
 - Transition event handling
 
-[Check it out](https://utkarshgupta2504.github.io/30-days-of-js/flex-image-gallery)
+[Check it out](flex-image-gallery)
 
 ### City Search
 
@@ -50,7 +50,7 @@ A simple webpage that filters out the cities that contains the given query.
 - Dynamic Rendering
 - Regular Expressions
 
-[Check it out](https://utkarshgupta2504.github.io/30-days-of-js/city-search)
+[Check it out](city-search)
 
 ### Paint Canvas
 
@@ -60,7 +60,7 @@ A canvas for you to show your creativity on. Hold the mouse button and start pai
 - Canvas Context
 - Mouse Events
 
-[Check it out](https://utkarshgupta2504.github.io/30-days-of-js/paint-canvas)
+[Check it out](paint-canvas)
 
 ### Multiple Checkboxes
 
@@ -69,4 +69,4 @@ An attempt to implement multiple selection. Try holding shift and clicking to se
 - Checkbox
 - Keyboard events
 
-[Check it out](multiple-checkboxes)
+[Check it out](multiple-checkbox)
