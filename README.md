@@ -70,3 +70,12 @@ An attempt to implement multiple selection. Try holding shift and clicking to se
 - Keyboard events
 
 [Check it out](multiple-checkbox)
+
+### Video Player
+
+A custom video player with beautiful controls and volume and speed controller.
+
+- Event handling
+- Video Controls
+
+[Check it out](video-player)
