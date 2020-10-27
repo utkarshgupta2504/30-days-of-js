@@ -79,3 +79,12 @@ A custom video player with beautiful controls and volume and speed controller.
 - Video Controls
 
 [Check it out](video-player)
+
+### Key Sequence
+
+A short project, which generates a random image when you type in a secret code ('konami')
+
+- Keylogging
+- Cornify.js
+
+[Check it out](key-sequence)
